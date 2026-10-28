@@ -315,5 +315,5 @@ FleetCore API is under development. Features and endpoints may change as the pro
 
 **Jonathan Rodriguez**
 
-CLAN: node.js and nest.js
+CLAN: node.js and nest.js PM
 
